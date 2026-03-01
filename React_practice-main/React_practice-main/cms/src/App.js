@@ -12,7 +12,7 @@ import Faculty from './Faculty/Faculty';
 
 
 // let student={
-//  name:"Madhu",
+//  name:"vishnu",
 //  age:20,
 //  course:"B.tech"
 
@@ -25,7 +25,7 @@ import Faculty from './Faculty/Faculty';
 //        <About/>
 //        <Contact/> <Login1/>  <Usestate/>
 // let student=[
-//   {name:"madhu",age:21,loc:"atp"},
+//   {name:"vishnu",age:21,loc:"atp"},
 //   {name:"abc",age:21,loc:"kdp"},
 // {name:"efg",age:21,loc:"krd"},
 // ]

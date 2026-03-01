@@ -1,0 +1,21 @@
+
+.register {
+    width: 320px;
+    margin: 80px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    text-align: center;
+}
+.register input {
+    width: 90%;
+    padding: 8px;
+}
+.register button {
+    padding: 8px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+

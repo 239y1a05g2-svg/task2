@@ -1,0 +1,36 @@
+.login {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fef3c7;
+}
+
+.login-form {
+  background: white;
+  padding: 20px;
+  width: 280px;
+  border-radius: 6px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.login-form input {
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 12px;
+}
+
+.login-form button {
+  width: 100%;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

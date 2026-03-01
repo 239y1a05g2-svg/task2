@@ -1,0 +1,34 @@
+.main-foot {
+    background-color: #5fc9e3; 
+    color: white;
+    padding: 30px 10px;
+    text-align: center;
+}
+.img-foot img {
+    width: 120px;
+    margin-bottom: 20px;
+}
+.contact-foot {
+    margin-bottom: 20px;
+    font-size: 14px;
+    line-height: 1.6;
+}
+.quick-links h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #e1afe5;  
+}
+.quick-links ul {
+    list-style: none;
+    padding: 0;
+}
+.quick-links ul li {
+    margin: 6px 0;
+    cursor: pointer;
+}
+
+.quick-links a {
+    text-decoration: none;
+    color: white;
+}
+

@@ -1,0 +1,17 @@
+.contact {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(222, 207, 185);
+  color: #2f3e46;
+
+  padding: 20px;
+  min-height: 90vh;
+}
+
+.contact strong {
+  display: block;
+  margin-top: 15px;
+}
+
+.contact p {
+  margin: 5px 0 0;
+}

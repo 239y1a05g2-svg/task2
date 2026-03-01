@@ -1,0 +1,21 @@
+
+.loginform {
+    width: 300px;
+    margin: 120px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    text-align: center;
+}
+.loginform input {
+    width: 90%;
+    padding: 8px;
+}
+.login1 {
+    padding: 8px 20px;
+    background-color: rgb(98, 170, 196);
+    color: rgb(237, 225, 225);
+    border: none;
+    cursor: pointer;
+}
+
+

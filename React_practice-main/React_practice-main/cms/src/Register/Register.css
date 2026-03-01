@@ -1,0 +1,33 @@
+.register {
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333;
+
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register form {
+  background-color: white;
+  padding: 20px;
+  width: 300px;
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+.register input {
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 10px;
+}
+
+.register button {
+  width: 100%;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,46 @@
+
+.speciality {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+.speciality h2 {
+    color: green;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.speciality p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+.message {
+    width: 100%;
+    margin-top: 40px;
+    text-align: center;
+}
+.ceo-image img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 3px solid rgb(125, 210, 219);
+    margin-bottom: 20px;
+}
+.ceo h3 {
+    color: rgb(144, 200, 144);
+    margin-bottom: 15px;
+}
+.ceo p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+marquee {
+    background-color: lightgreen;
+    padding: 12px;
+    margin-top: 40px;
+}
+marquee h2 {
+    color: darkgreen;
+    font-size: 22px;
+    margin: 0;
+}

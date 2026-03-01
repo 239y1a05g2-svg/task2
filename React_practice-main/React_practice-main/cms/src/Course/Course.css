@@ -1,0 +1,74 @@
+
+/* Heading */
+.heading {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.heading h2 {
+  color: #00e0c6;
+  font-size: 28px;
+}
+
+/* Courses section */
+.courses {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+/* Entrance image */
+.entrance img {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+ul li:hover {
+  background-color: #00e0c6;
+  color: #262680;
+  transform: translateX(10px) scale(1.05);
+  box-shadow: 0 6px 15px rgba(0, 224, 198, 0.6);
+}
+
+/* Course list */
+.course-list {
+  list-style: none;
+  padding: 0;
+}
+
+.course-list li {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+}
+
+/* All departments section */
+.alldept {
+  margin: 40px 0;
+  text-align: center;
+}
+
+/* QR section */
+.qrcode img {
+  width: 180px;
+  margin-bottom: 10px;
+}
+
+.qrcode p {
+  font-size: 14px;
+  color: #dddddd;
+}
+
+
+.alldept strong {
+  display: block;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #00ffcc;
+}

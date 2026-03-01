@@ -1,0 +1,146 @@
+
+.landing {
+    background-color: #e8f5e9;
+    padding: 20px;
+    text-align: center;
+}
+
+.landing h2 {
+    margin-bottom: 15px;
+    color: #5e4096;
+}
+
+
+.backimg {
+    background-image: url("https://techmoshop.s3.ap-south-1.amazonaws.com/nextshopz/uploads/Tenant_775/photos/2511681c9d8a475ca.png");
+    height: 250px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.backimg h3 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+.btn-group {
+    margin-top: 20px;
+    color: #5e4096;
+}
+.login-btn ,
+.register-btn  {
+    color: #221fc8;
+    background-color: #a08fbf;
+}
+
+.login-btn a,
+.register-btn a {
+    text-decoration: none;
+}
+.breakfast button a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.btn-group {
+    display: flex;
+    justify-content: flex-end; 
+    gap: 10px;
+    margin-top: 15px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+
+section > h2 {
+    text-align: center;
+    margin: 30px 0 15px;
+    color: #749523;
+}
+
+
+.top {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+
+.top-image {
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+.top-image img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.top-image p {
+    margin: 8px 0;
+}
+
+
+.pro-price {
+    color: rgb(185, 62, 62);
+    font-weight: bold;
+}
+
+.order-btn {
+    padding: 8px 16px;
+    background-color: orange;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+.breakfast {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.breakfast h2 {
+    margin-bottom: 10px;
+}
+
+.breakfast button {
+    padding: 10px 20px;
+    background-color: rgb(94, 220, 167);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+}
+
+.breakfast {
+    display: flex;
+    flex-direction: column;   /* h2 on top, button below */
+    align-items: center;      /* center horizontally */
+    justify-content: center;
+    margin: 30px 0;
+    text-decoration: none;
+}
+.breakfast button a {
+    text-decoration: none;
+    color: white;
+}
+
+
